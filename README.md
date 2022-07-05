@@ -1,5 +1,7 @@
 # Stock-Market-Prediction-Using-Reinforcement-Learning-and-Sentiment-Analysis
 
+## Introduction
+
 This project aims to predict the stock price movement of major companies in S&P500 and create
 a model that can yield profits in the real market by performing two main schools of stock analysis
 – fundamental analysis and technical analysis. We use two different machine learning methods
@@ -24,4 +26,4 @@ opening price, high, low, closing price (OHLC), and trading volume and then test
 from the most recent year. We tried adjusting the discount factor of each model to see how it
 affects the performance on long-term and short-term predictions.
 
-Report available here: https://drive.google.com/file/d/1PoHYElMpIMdCjpIliZdGWJv1-zrc8JcH/view?usp=sharing
+Full report available here: https://drive.google.com/file/d/1PoHYElMpIMdCjpIliZdGWJv1-zrc8JcH/view?usp=sharing
