@@ -14,4 +14,16 @@ The models are based on different reinforcement learning algorithms including th
 The models were trained upon 10 years of the trend information of the target stocks including opening price, high, low, closing price (OHLC), and trading volume and then tested with the data from the most recent year. 
 We tried adjusting the discount factor of each model to see how it affects the performance on long-term and short-term predictions.
 
+### Naive Bayes Classifier Structure
+
+![Naive Bayes Classifier Structure](https://github.com/mikaela2080/Stock-Market-Prediction-Using-Reinforcement-Learning-and-Sentiment-Analysis/blob/main/NB%20classifier%20structure.jpg?raw=true)
+
+### Sentiment Analysis Simulation Process
+
+![Naive Bayes Classifier Structure](https://github.com/mikaela2080/Stock-Market-Prediction-Using-Reinforcement-Learning-and-Sentiment-Analysis/blob/main/SA%20simulation%20map.png?raw=true)
+
+### Architecture of Actor Critic Models
+
+![Naive Bayes Classifier Structure](https://github.com/mikaela2080/Stock-Market-Prediction-Using-Reinforcement-Learning-and-Sentiment-Analysis/blob/main/AC%20model%20architecture.jpg?raw=true)
+
 Full report available here: https://drive.google.com/file/d/1PoHYElMpIMdCjpIliZdGWJv1-zrc8JcH/view?usp=sharing
